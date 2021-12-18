@@ -40,3 +40,13 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To github.com:jssergio/JavaScript-Basico.git
    f19d0ef..19616a6  master -> master
    
+jsergio@LAPTOP-CBSQ8HH4 MINGW64 ~/Desktop/Workspace/JavaScript (master)
+$ git clone git@github.com:DianaMartine/curso-dio-sintaxe-basica-javascript.git
+Cloning into 'curso-dio-sintaxe-basica-javascript'...
+Enter passphrase for key '/c/Users/js058/.ssh/id_ed25519':
+remote: Enumerating objects: 57, done.
+remote: Counting objects: 100% (57/57), done.
+remote: Compressing objects: 100% (54/54), done.
+remote: Total 57 (delta 17), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (57/57), 225.59 KiB | 619.00 KiB/s, done.
+Resolving deltas: 100% (17/17), done.
